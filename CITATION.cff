@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software after its approved release, please cite it."
+title: "Engineering AI Toolkit"
+type: software
+version: "0.1.0"
+authors:
+  - family-names: Emara
+    given-names: Reda
